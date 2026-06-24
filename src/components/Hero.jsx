@@ -46,7 +46,7 @@ function Hero() {
           {/* INFO */}
           <div className="flex gap-6 text-sm text-gray-300 mb-6">
             <span>📍 India</span>
-            <span>🎓 CSE (AI & ML)</span>
+            <span>🎓 CSE </span>
             <span>💼 Open to Internships</span>
           </div>
 
